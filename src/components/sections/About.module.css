@@ -1,0 +1,27 @@
+.timeline{
+    margin: auto;
+    width: 75%;
+    height: 1px;
+    border-bottom: 7px solid aliceblue;
+}
+
+.elipses{
+    display: flex;
+    justify-content: space-around;
+    position:relative;
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+.years{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
+}
+
+.description{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0 50px;
+}

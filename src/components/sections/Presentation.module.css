@@ -1,0 +1,15 @@
+h1{
+    font-size: 55px;
+    margin-bottom: 34px;
+}
+
+.presentation{
+    padding-top: 200px;
+}
+
+.presentation p{
+    margin-left: 2.5rem;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 53px;
+}

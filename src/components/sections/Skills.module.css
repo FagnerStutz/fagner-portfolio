@@ -1,0 +1,23 @@
+.skill{
+    border-radius: 10px;
+    margin: 75px;
+    padding: 20px;
+}
+
+.skill img{
+    height: 140px;
+    margin: 25px;
+    filter: drop-shadow(0px 4px rgba(0,0,0.25,0.25));
+    transition-duration: 0.5s;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap
+}
+
+.skill img:hover{
+    transform: scale(1.4);
+    transition-duration: 0.5s;
+}
